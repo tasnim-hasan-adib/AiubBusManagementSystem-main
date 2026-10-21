@@ -1,0 +1,130 @@
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.exe
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.deps.json
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.runtimeconfig.json
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.pdb
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.LoginForm.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.MainDashboardForm.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.RegistrationForm.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Admin.AdminDashboardControl.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Driver.DriverDashboardControl.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Student.StudentDashboardControl.resources
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusM.A58787D8.Up2Date
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\refint\AiubBusManagementSystem.dll
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.pdb
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\project\AIUBBusManagementSystem\AiubBusManagementSystem\AiubBusManagementSystem\obj\Debug\net8.0-windows\ref\AiubBusManagementSystem.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\refint\AiubBusManagementSystem.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.pdb
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.exe
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.deps.json
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.runtimeconfig.json
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\AiubBusManagementSystem.pdb
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.LoginForm.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.MainDashboardForm.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Forms.RegistrationForm.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.Properties.Resources.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Admin.AdminDashboardControl.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Driver.DriverDashboardControl.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.UserControls.Student.StudentDashboardControl.resources
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.GenerateResource.cache
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.AssemblyInfo.cs
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusM.A58787D8.Up2Date
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\AiubBusManagementSystem.genruntimeconfig.cache
+C:\Users\Asus TUF Gaming\Downloads\AiubBusManagementSystem-main\AiubBusManagementSystem\obj\Debug\net8.0-windows\ref\AiubBusManagementSystem.dll
