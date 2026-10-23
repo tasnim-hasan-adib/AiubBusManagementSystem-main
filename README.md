@@ -36,7 +36,7 @@ based on the SQL queries in the project's source code.
 | Student (blocked) | mehjabin | student123 |
 
 ## Demonstration video
-[Paste your video link here]
+https://drive.google.com/file/d/1ZjAM9ePMnUDVCcyKNUObUDu0e5MgOqqg/view?usp=sharing
 
 ## Prepared by
 Tasnim Hasan Adib, AIUB
